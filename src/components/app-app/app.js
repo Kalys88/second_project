@@ -1,4 +1,6 @@
 import React from 'react';
+import TodoHeader from "../todo-header/todoHeader";
+import TodoList from "../todo-list/todoList";
 
 const App = () => {
     const todos = [
